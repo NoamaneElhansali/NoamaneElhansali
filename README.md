@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://NoamaneElhansali.io)<br>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="200px" style="border-radius:50%">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="200px" style="border-radius:50%;">
 # 💫 About Me:
 I’m a full-stack web programmer with expertise in a wide range of technologies. On the front-end, I specialize in React, JavaScript, CSS, and HTML to create intuitive and responsive user interfaces. On the back-end, I excel in Laravel, Node.js, Python, SQL, and MongoDB, ensuring secure and scalable server-side development. My skills extend to UML for system design and architecture.<br><br>With a passion for continuous learning, I bring together front-end and back-end technologies to deliver efficient, high-quality web applications.
 

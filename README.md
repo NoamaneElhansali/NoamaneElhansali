@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://NoamaneElhansali.io)
+[![MasterHead](https://badge.mediaplus.ma/greenbinary/nelhansa)](https://NoamaneElhansali.io)
 
 # 👋 Hello! I'm Noamane Elhansali
 

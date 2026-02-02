@@ -1,5 +1,7 @@
 [![MasterHead](https://badge.mediaplus.ma/greenbinary/nelhansa)](https://NoamaneElhansali.io)
-
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/nelhansa">
+</p>
 # 👋 Hello! I'm Noamane Elhansali
 
 I'm a passionate full-stack web developer specializing in both **front-end** and **back-end** technologies. From building intuitive **React** applications to designing scalable **Node.js** and **Laravel** back-ends, I bring a holistic approach to web development. Let's create something amazing together!

@@ -27,10 +27,6 @@ I'm a passionate full-stack web developer specializing in both **front-end** and
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=NoamaneElhansali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔥 Featured Projects:
-- **[Reservily](https://github.com/NoamaneElhansali/Reservily)** - A platform for booking appointments with doctors or buying parapharmaceutical products.
-- **[Telegram Salat Bot](https://github.com/NoamaneElhansali/SalatBot)** - A bot that sends prayer time notifications based on your selected country.
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
